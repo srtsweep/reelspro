@@ -1,0 +1,5 @@
+register/login
+login -> dashboard
+dashboard - header (dashboard , upload , signout)
+upload - form for video upload || signout - redirect to /
+click publish - video published then redirect to dashboard
