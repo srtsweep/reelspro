@@ -41,7 +41,7 @@ export default function Home() {
               {/* ?tr=l-text,lx-N0,ly-N0,i-hello,fs-100,co-green,bg-yellow,l-end */}
               <Video
                 urlEndpoint="https://ik.imagekit.io/zozsajbhp"
-                src={`${video.videoUrl}?tr=l-image,ie-${overlayImage},lx-N0,ly-N0,h-100,w-100,l-end`}
+                src={`${video.videoUrl}`}
                 controls
                 className="w-full rounded"
               />
